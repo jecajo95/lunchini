@@ -1,5 +1,5 @@
 # Lunchini
-I am not in the position to share any code. Lunchini started as a demo project, I had the sole responsibility for the frontend.
+I am not in the position to share any code.
 
 ## Menu page
 
